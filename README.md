@@ -2,8 +2,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luac.86/)
 
-![luana GitHub stats](https://github-readme-stats.vercel.app/api?username=luanaxcardoso&show_icons=true&theme=onedark)
-
 ### Tecnologias que utilizo ❤️
 <div style="display: inline_block"><br/>
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
