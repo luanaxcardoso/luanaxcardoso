@@ -1,5 +1,9 @@
 ### Olá, eu sou a Luana ❤️
 
+- Estudante na área de programação 
+- Vegetariana 
+- Formada em pedagogia, administração e estética  
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luac.86/)
 
 
