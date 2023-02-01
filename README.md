@@ -1,4 +1,4 @@
-### Olá, eu sou a Luana ❤️
+### Prazer! Eu sou a Luana ❤️
 
 - Estudante na área de programação 
 - Vegetariana 
