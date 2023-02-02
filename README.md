@@ -15,4 +15,6 @@
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="center" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   
-![lua](https://user-images.githubusercontent.com/112970416/214907034-ec085040-2a22-49fb-b372-b7a978f563ce.gif)
+
+  
+![giphy](https://user-images.githubusercontent.com/112970416/216397245-15d5be27-e8f6-4279-ac6d-5fbe3daefbfa.gif)
