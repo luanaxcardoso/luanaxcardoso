@@ -22,7 +22,9 @@
 <img align="align" alt="VSCODE" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>  
 <img align="align" alt="POWERBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
 <img align="align" alt="GIT" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>  
-<img align="align" alt="POSTMAN" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+<img align="align" alt="POSTMAN" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/><br/>
+  
+![luanaxcardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanaxcardoso&show_icons=true&theme=highcontrast)
 
   
   
