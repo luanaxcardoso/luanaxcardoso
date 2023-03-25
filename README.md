@@ -23,9 +23,10 @@
 <img align="align" alt="POWERBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
 <img align="align" alt="GIT" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>  
 <img align="align" alt="POSTMAN" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/><br/>
-  
-![luanaxcardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanaxcardoso&show_icons=true&theme=highcontrast)
 
   
-  
 ![giphy](https://user-images.githubusercontent.com/112970416/216445837-27cbb3de-6dbf-43b7-b1eb-0fcfc3e4e93e.gif)
+  
+![luanaxcardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanaxcardoso&show_icons=true&theme=highcontrast)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanaxcardoso&layout=compact)](https://github.com/luanaxcardoso/github-readme-stats)
