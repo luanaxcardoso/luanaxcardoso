@@ -28,3 +28,8 @@
 ![luanaxcardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanaxcardoso&show_icons=true&theme=highcontrast)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luanaxcardoso&theme=default)
 
+<div align="center">
+
+  ![Snake animation](https://github.com/luanaxcardoso/luanaxcardoso/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
