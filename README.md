@@ -28,5 +28,5 @@
 ![giphy](https://user-images.githubusercontent.com/112970416/216445837-27cbb3de-6dbf-43b7-b1eb-0fcfc3e4e93e.gif)
   
 ![luanaxcardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanaxcardoso&show_icons=true&theme=highcontrast)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanaxcardoso&hide=javascript,html)](https://github.com/luanaxcardoso/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luanaxcardoso&theme=default)
+
