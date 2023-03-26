@@ -29,4 +29,4 @@
   
 ![luanaxcardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanaxcardoso&show_icons=true&theme=highcontrast)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanaxcardoso&layout=compact)](https://github.com/luanaxcardoso/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanaxcardoso&hide=javascript,html)](https://github.com/luanaxcardoso/github-readme-stats)
