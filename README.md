@@ -21,7 +21,6 @@
 <img align="align" alt="POWERBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
 <img align="align" alt="GIT" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>  
 <img align="align" alt="POSTMAN" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/><br/>
-
   
 ![giphy](https://user-images.githubusercontent.com/112970416/216445837-27cbb3de-6dbf-43b7-b1eb-0fcfc3e4e93e.gif)
   
