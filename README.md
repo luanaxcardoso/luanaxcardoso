@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Prazer!Meu+nome+é+Luana+Cardoso;Estudante+na+área+de+programação;Formada+em+Administração+Pedagogia+e+Estética!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Prazer!Meu+nome+é+Luana+Cardoso;Estudante+na+área+de+programação;Formada+em+Administração,+Pedagogia+e+Estética!+:%29)](https://git.io/typing-svg)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luac.86/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-cardoso-b67965246/)
