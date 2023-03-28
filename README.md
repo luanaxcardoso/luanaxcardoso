@@ -1,14 +1,11 @@
-
-### Prazer! Eu sou a Luana ❤️
-
-- **Estudante na área de programação** 
-- **Formada em Pedagogia, Administração e Estética**  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Prazer!Meu+nome+é+Luana+Cardoso;Estudante+na+área+de+programação;Formada+em+Administração+Pedagogia+e+Estética!+:%29)](https://git.io/typing-svg)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luac.86/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-cardoso-b67965246/)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Tecnologias+e+ferramentas+❤️:%29)](https://git.io/typing-svg)
 
-### Tecnologias e ferramentas ❤️
+
 <div style="display: inline_block"><br/>
  
 <img align="align" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
