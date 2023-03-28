@@ -31,7 +31,7 @@
 ![Snake animation](https://github.com/luanaxcardoso/luanaxcardoso/blob/output/github-contribution-grid-snake.svg)
  
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Visitantes!💓</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{luanaxcardoso}/count.svg" /></p> 
 <br>
 </div>
