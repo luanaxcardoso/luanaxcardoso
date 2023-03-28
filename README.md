@@ -1,3 +1,4 @@
+
 ### Prazer! Eu sou a Luana ❤️
 
 - **Estudante na área de programação** 
@@ -24,9 +25,9 @@
   
 ![giphy](https://user-images.githubusercontent.com/112970416/216445837-27cbb3de-6dbf-43b7-b1eb-0fcfc3e4e93e.gif)
   
-![luanaxcardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanaxcardoso&show_icons=true&theme=highcontrast)
+[![card](https://github-readme-stats.vercel.app/api?username=luanaxcardoso&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luanaxcardoso&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luanaxcardoso&theme=merko)
 
 ![Snake animation](https://github.com/luanaxcardoso/luanaxcardoso/blob/output/github-contribution-grid-snake.svg)
  
