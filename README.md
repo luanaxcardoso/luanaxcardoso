@@ -27,9 +27,12 @@
 [![card](https://github-readme-stats.vercel.app/api?username=luanaxcardoso&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luanaxcardoso&theme=merko)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luanaxcardoso&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p
 
 ![Snake animation](https://github.com/luanaxcardoso/luanaxcardoso/blob/output/github-contribution-grid-snake.svg)
+ 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{luanaxcardoso}/count.svg" /></p> 
+<br>
+</div>
  
