@@ -28,7 +28,3 @@
   
 [![card](https://github-readme-stats.vercel.app/api?username=luanaxcardoso&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![Snake animation](https://github.com/luanaxcardoso/luanaxcardoso/blob/output/github-contribution-grid-snake.svg)
- 
- 
