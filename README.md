@@ -27,5 +27,6 @@
   
 ![giphy](https://user-images.githubusercontent.com/112970416/216445837-27cbb3de-6dbf-43b7-b1eb-0fcfc3e4e93e.gif)
   
-[![card](https://github-readme-stats.vercel.app/api?username=luanaxcardoso&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Luanaxcardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanaxcardoso&show_icons=true&theme=radical)
 
