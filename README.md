@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1000&lines=Prazer!Meu+nome+é+Luana+Cardoso;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Formada+em+Administração,+Pedagogia+e+Estética!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindos!;Developer+Full+Stack;EEstudante+de+Análise+e+Desenvolvimento+de+Sistemas+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -25,7 +25,8 @@
 <img align="align" alt="POSTMAN" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/><br/>
 <h1></h1> 
  
-![giphy](https://github.com/luanaxcardoso/luanaxcardoso/assets/112970416/e58066cd-565a-440d-9aff-3118c204c14a)
+![giphy](https://github.com/luanaxcardoso/luanaxcardoso/assets/112970416/368eccd6-ea97-4236-b533-810198b320fe)
+
 
 <div align="center">  
   <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=luanaxcardoso&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Luana Cardoso github stats" /> 
