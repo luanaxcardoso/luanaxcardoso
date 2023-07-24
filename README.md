@@ -25,7 +25,8 @@
 <img align="align" alt="POSTMAN" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/><br/>
 <h1></h1> 
  
-![giphy](https://github.com/luanaxcardoso/luanaxcardoso/assets/112970416/368eccd6-ea97-4236-b533-810198b320fe)
+
+![giphy](https://github.com/luanaxcardoso/luanaxcardoso/assets/112970416/254d64e9-02d9-4171-9ca9-71f167ee2c88)
 
 
 <div align="center">  
