@@ -14,7 +14,6 @@
 
 <h1></h1>
 
-<h1>Tecnologias e Ferramentas</h1>
 
 <div style="display: inline_block">
   <img align="align" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
