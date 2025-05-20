@@ -1,9 +1,10 @@
 
 <p align="center">
   <a href="https://github.com/luanaxcardoso">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Bem-vindos!%20Welcome!;%20Back-end+Developer;Python%20|%20SQL%20|%20JavaScript;&font=Pacifico&center=true&width=650&height=120&color=9370DB&vCenter=true&size=45&duration=4000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Bem-vindos!%20Welcome!;%20Full+Stack+Developer+Jr;%20Systems+Analyst;Python%20|%20SQL%20|%20JavaScript;&font=Pacifico&center=true&width=650&height=120&color=9370DB&vCenter=true&size=45&duration=4000">
   </a>
 </p>
+
 
 
 
