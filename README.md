@@ -10,11 +10,11 @@
 
 <div align="center">
 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-ap-cardoso/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-ap-cardoso/)
 
 <h1></h1>
+
+</div>
 
 
 <div style="display: inline_block">
